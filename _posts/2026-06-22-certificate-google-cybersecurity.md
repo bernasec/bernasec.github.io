@@ -23,6 +23,8 @@ Para os que têm interesse em fazer essa certificação, a plataforma de ensino 
 Só se inscrever e esperar um tempo para começar. Conseguindo a bolsa, você tem até 6 meses para completar o curso antes de bloquearem o acesso, então aproveitem.
 <br>
 <a href = "https://portal.ciee.org.br/quero-me-preparar/google-tech/">Portal do CIEE + Google</a>
+<br>
+Há também uma outra dica ou aviso que pode ser muito mais atrativo ao fazer o curso, ao final, ele te da um cupom/voucher de 30%, para realizar a prova da certificação CompTIA Security+, ficando em torno de 300U$, mas muitas empresas hoje no mercado gostam dos analistas tenham ela.
 </p>
 </div>
 
