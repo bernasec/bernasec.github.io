@@ -11,3 +11,5 @@ Para fazer o acesso inical, instale o Putty (preferência minha). Para fazer o a
 
 >Respeite as regras! não queira ser um "kiddie". Aqui não terá nenhuma "flag" ou "senha" de nenhum nível apenas comandos e dicas.
 </p>
+
+>On building... comeback later or check the other posts.
