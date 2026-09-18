@@ -61,5 +61,3 @@ Vale a pena? Diria que sim, principalmente como base, seja para quem está come�
 Se tiver interesse, lembre da bolsa do CIEE + Google para não pagar nada pelo curso.
 </p>
 </div>
-
-<p><strong>keep learning, keep hacking.</strong></p>
