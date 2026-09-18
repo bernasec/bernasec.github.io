@@ -30,8 +30,8 @@ Here will be every certs and courses that i made or is enrolled in my days, i wi
 ### Google:
 <p>
     <ul>
-        <a>
-        <li>Google Cybersecurity Professional - (Em andamento)</li>
+        <a href="https://coursera.org/verify/professional-cert/OGN8NHRBPUKZ">
+        <li>Google Cybersecurity Professional</li>
         </a>
     </ul>
 </p>
