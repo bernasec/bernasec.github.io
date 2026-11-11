@@ -5,8 +5,8 @@ categories: [write-up]
 tags: [vulnerability, offsec, web]
 ---
 <p>
-<a href="assets\img\server-side-vuln-pts\hxh_burp_fade2.png" class="popup img-link"> 
-<img src="assets\img\server-side-vuln-pts\hxh_burp_fade2.png" alt="Introduction Image" width="980" height="380" loading="lazy">
+<a href="..\assets\img\server-side-vuln-pts\hxh_burp_fade2.png" class="popup img-link"> 
+<img src="..\assets\img\server-side-vuln-pts\hxh_burp_fade2.png" alt="Introduction Image" width="980" height="380" loading="lazy">
 </a>
 </p>
 Write-up da trilha de Server-side Vulnerabilites da Portswigger, demonstração prática e explicação sobre os assuntos demonstrados nas aulas. \
